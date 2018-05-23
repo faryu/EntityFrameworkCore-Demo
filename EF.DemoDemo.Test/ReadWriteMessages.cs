@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace Fire.Sync.Tests
+namespace EF.Demo.Test
 {
     public class ReadWriteMessages
     {
