@@ -1,10 +1,6 @@
 language: csharp
 solution: EF-Demo.sln
-
-matrix:
-  include:
-    - dotnet: 2.1.200
-      mono: none
-      script:
-        - dotnet test -f netcoreapp2.0
-    - mono: latest
+dotnet: 2.1.200
+mono: none
+script:
+  - dotnet test -f netcoreapp2.0
