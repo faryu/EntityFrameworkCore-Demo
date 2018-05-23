@@ -11,7 +11,4 @@
       <Version>2.1.0-rc1-final</Version>
     </PackageReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Data\" />
-  </ItemGroup>
 </Project>
