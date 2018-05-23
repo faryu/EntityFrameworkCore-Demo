@@ -1,6 +1,6 @@
 language: csharp
 solution: EF-Demo.sln
-mono: none
+mono: latest
 dotnet: 2.1.200
 script:
  - dotnet test
